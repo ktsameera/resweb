@@ -1,0 +1,270 @@
+
+.body
+{
+    background-color: #ffffff;
+    width:100%;
+    height:100%;
+    margin: 0px;
+    box-sizing: border-box;
+    
+    
+}
+.row
+{   
+margin:0px;
+display:inline; 
+overflow-y: hidden;
+overflow-x: hidden;
+}
+ .col-md-6 
+{
+    background-color: #f1f3f5;
+    width:100%;
+    margin-right: 0px;
+}
+.col-sm-12 
+{
+    background-color: #f1f3f5;
+    width:100%;
+    margin-right: 0px;
+}
+.container-fluid
+{
+    background-color: #f1f3f5;
+    width:100%;
+    margin-right: 0px;
+  
+    
+}
+.table1
+{
+    
+    vertical-align: middle;
+    padding-top:45px;
+    width:100%
+}
+.td1
+{
+    font-size: 60px;
+    font-family: Helvetica;
+    color: #1877f2;
+    font-weight: 600;
+  
+    padding-top:45px;
+}
+.td2
+{ 
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 35px;
+   
+   
+}
+.td3
+{
+    vertical-align: middle;
+    padding-left: 25px;
+    display:block;
+    width:100%;
+    height:220px;
+   
+}
+.td4
+{
+    vertical-align: middle;
+    padding-left: 25px;
+    display:block;
+    width:400px;
+    height:150px;
+   
+}
+.box
+{  
+    background-color: white;
+    border-radius: 5px;
+    width: 360px;
+    height: 400px;
+    vertical-align: middle;
+    padding-left: 35px;
+    padding-top: 5px;
+    box-shadow:1px 2px 5px rgb(28, 32, 39);
+    float:left;
+
+}
+.inputbox
+{ 
+    border-radius: 6px;
+    font-size: 17px;
+    width: 300px;
+    height:55px;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #bdbfc4;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+.loginbutton
+{
+    border-radius: 6px;
+    color: #dddfe2;
+    background-color: #1877f2;
+    width:300px;
+    height:45px;
+    border: 1px solid #dddfe2;
+    color: #fdfeff;
+    vertical-align: middle;
+    padding-top: 10px;
+    font-size: 20px;
+    line-height:45px;
+    padding: 0 10px;
+   
+}
+.logintext
+{
+    color:White;
+    font-weight: bold;
+
+}
+.forgotpwd
+{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration:none;
+    vertical-align: center;
+    line-height: 1.34;
+   padding-left: 90px;
+   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.line1
+{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    margin: 20px 16px;
+    text-align: center;
+    padding-left: 65px;
+    width:280px;
+}
+.line2
+{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    margin: 20px 16px;
+    text-align: center;
+    padding-left: 65px;
+    direction: ltr;
+    width:80%;
+}
+.NewAcctbutton
+{
+    border-radius: 6px;
+    color: #dddfe2;
+    background-color: #42b72a;
+    width: 230px;
+    height:50px;
+    border: 1px solid #dddfe2;
+    font-size: 18px;
+    padding-left:15px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;  
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.celebtext
+{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    color: #1c1e21;
+    vertical-align: middle;
+    padding-top: 25px;
+    
+    
+}
+.celebtext2
+{
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight:normal;
+    padding-top: 0;
+    vertical-align: middle;padding-top: 25px;
+}
+
+.footer
+{
+    float:left; 
+    width:100%;
+    height:230px;
+    background-color: #ffffff;
+    padding-left: 55px;
+    vertical-align: middle;  
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+   display: inline-block;
+ 
+    
+}
+.footlang
+{
+    width:100%;
+    height: 15px;
+    background: #fffffe;
+    vertical-align:top;
+    margin-left: 0px;
+    padding-left: 15px;
+    
+    
+}
+.li
+{
+    padding-left: 0px;
+    vertical-align:middle;
+    display: inline-block;
+    color: rgb(115, 115, 115);
+    font-size: 12px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    padding-top: 2px;
+    cursor:pointer;  
+    padding-right: 0px;
+    margin: 0px;
+   
+}
+.plus
+{
+    width:35px;
+    height: 20px;
+    line-height: 20px;
+    background-color: rgb(245, 246, 247);
+    color: rgb(75, 79, 86);
+    border-color: rgb(204, 208, 213);
+    font-size: x-large ;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    border-width: 1px;
+    border-style: solid;
+    border-color: initial;
+    border-radius: 2px;
+    padding: 0px 5px;
+    display:inline-block;
+    cursor: pointer;
+}
+@media (min-width:412px) {
+    .body{
+        overflow-y: hidden;
+        overflow-x: scroll;
+    }
+}
+
